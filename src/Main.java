@@ -9,4 +9,5 @@ public class Main {
         sbornik.setAgePublic(1836);
         System.out.println(sbornik);
     }
+
 }
